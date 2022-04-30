@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/oreona/static/css/main.2d8aae41.css",
+    "main.css": "/oreona/static/css/main.3672ddc9.css",
     "main.js": "/oreona/static/js/main.914e289e.js",
     "static/media/transportIMG.png": "/oreona/static/media/transportIMG.a003b6e7357d68887015.png",
     "static/media/development.png": "/oreona/static/media/development.f5ef1f643c66ebe34382.png",
@@ -12,11 +12,11 @@
     "static/media/Poppins-Bold.ttf": "/oreona/static/media/Poppins-Bold.cdb29a5d7ccf57ff05a3.ttf",
     "static/media/logo.png": "/oreona/static/media/logo.3dfb306abd5c39fd52aa.png",
     "index.html": "/oreona/index.html",
-    "main.2d8aae41.css.map": "/oreona/static/css/main.2d8aae41.css.map",
+    "main.3672ddc9.css.map": "/oreona/static/css/main.3672ddc9.css.map",
     "main.914e289e.js.map": "/oreona/static/js/main.914e289e.js.map"
   },
   "entrypoints": [
-    "static/css/main.2d8aae41.css",
+    "static/css/main.3672ddc9.css",
     "static/js/main.914e289e.js"
   ]
 }

@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/oreona/static/css/main.2d8aae41.css",
+    "main.js": "/oreona/static/js/main.914e289e.js",
+    "static/media/transportIMG.png": "/oreona/static/media/transportIMG.a003b6e7357d68887015.png",
+    "static/media/development.png": "/oreona/static/media/development.f5ef1f643c66ebe34382.png",
+    "static/media/advertising.png": "/oreona/static/media/advertising.9c861ed546ebe013c3a3.png",
+    "static/media/merchanting.png": "/oreona/static/media/merchanting.a58b58771bc82eb3a4cc.png",
+    "static/media/contact.png": "/oreona/static/media/contact.3d09d859b34639b6ecfa.png",
+    "static/media/Poppins-Regular.ttf": "/oreona/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/Poppins-Medium.ttf": "/oreona/static/media/Poppins-Medium.673ed42382ab264e0bf5.ttf",
+    "static/media/Poppins-Bold.ttf": "/oreona/static/media/Poppins-Bold.cdb29a5d7ccf57ff05a3.ttf",
+    "static/media/logo.png": "/oreona/static/media/logo.3dfb306abd5c39fd52aa.png",
+    "index.html": "/oreona/index.html",
+    "main.2d8aae41.css.map": "/oreona/static/css/main.2d8aae41.css.map",
+    "main.914e289e.js.map": "/oreona/static/js/main.914e289e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d8aae41.css",
+    "static/js/main.914e289e.js"
+  ]
+}
